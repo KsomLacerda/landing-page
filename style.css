@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Space+Grotesk:wght@300;400;500&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --lemon-green: #B9FF66;
+    --black: #191A23;
+    --white: #F3F3F3;
+}
+
+body {
+    background: var(--white);
+}
